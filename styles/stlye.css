@@ -1518,6 +1518,9 @@ footer.wrapper li a {
   header.wrapper .mAshtari:after {
     width: 30%;
   }
+  header.wrapper .scrollDown {
+    display: none;
+  }
 
   section.aboutMe {
     flex-direction: column;
